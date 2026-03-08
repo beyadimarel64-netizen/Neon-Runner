@@ -1,0 +1,5 @@
+{
+  "name": "Neon Runner",
+  "description": "A fast-paced neon-themed obstacle avoidance game. Jump over obstacles and beat your high score!",
+  "requestFramePermissions": []
+}
